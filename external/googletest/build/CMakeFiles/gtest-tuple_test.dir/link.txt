@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/gtest-tuple_test.dir/test/gtest-tuple_test.cc.o  -o gtest-tuple_test  -L/univrses/github/googletest/googletest/build/src  libgtest_main_use_own_tuple.a -Wl,-rpath,/univrses/github/googletest/googletest/build/src 
