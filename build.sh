@@ -1,6 +1,9 @@
 #!/usr/bin/bash
 rm -rf build
 
+export CC=/usr/bin/clang
+export CXX=/usr/bin/clang++
+
 echo BUILDING
 pwd
 mkdir build && cd build
